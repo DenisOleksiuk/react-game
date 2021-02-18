@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/DenisOleksiuk/react-game/tree/react-game/static/css/main.347137f5.chunk.css",
+    "main.js": "/DenisOleksiuk/react-game/tree/react-game/static/js/main.f43e8a2e.chunk.js",
+    "main.js.map": "/DenisOleksiuk/react-game/tree/react-game/static/js/main.f43e8a2e.chunk.js.map",
+    "runtime-main.js": "/DenisOleksiuk/react-game/tree/react-game/static/js/runtime-main.ad6f5a16.js",
+    "runtime-main.js.map": "/DenisOleksiuk/react-game/tree/react-game/static/js/runtime-main.ad6f5a16.js.map",
+    "static/js/2.5d2f2cf6.chunk.js": "/DenisOleksiuk/react-game/tree/react-game/static/js/2.5d2f2cf6.chunk.js",
+    "static/js/2.5d2f2cf6.chunk.js.map": "/DenisOleksiuk/react-game/tree/react-game/static/js/2.5d2f2cf6.chunk.js.map",
+    "index.html": "/DenisOleksiuk/react-game/tree/react-game/index.html",
+    "static/css/main.347137f5.chunk.css.map": "/DenisOleksiuk/react-game/tree/react-game/static/css/main.347137f5.chunk.css.map",
+    "static/js/2.5d2f2cf6.chunk.js.LICENSE.txt": "/DenisOleksiuk/react-game/tree/react-game/static/js/2.5d2f2cf6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ad6f5a16.js",
+    "static/js/2.5d2f2cf6.chunk.js",
+    "static/css/main.347137f5.chunk.css",
+    "static/js/main.f43e8a2e.chunk.js"
+  ]
+}
