@@ -4,21 +4,26 @@ export default {
     y: 200,
     dx: 5,
     dy: 5,
-    rad: 20,
+    rad: 10,
     speed: 10,
   },
   brickObj: {
     x: 0.5,
-    y: 0.5,
-    width: 800 / 10 - 1,
+    y: 50,
     height: 20,
     density: 2,
-    colord: ['blue', 'lightblue'],
+    colors: ['red', 'lightblue'],
   },
-  players: {
+  player: {
     name: 'Den',
-    lives: 5,
+    lives: 2,
     score: 0,
     level: 1,
+  },
+  paddleProps: {
+    height: 20,
+    width: 100,
+    x: 100,
+    color: 'orange',
   },
 };
